@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+b {
+  color: red;
+
+}
+
+ol {
+  padding: 0px;
+}
+
+ol h5 {
+  background: white;
+  padding: 12px;
+  border-radius: 12px;
+}
+
+li img {
+  border-radius: 20px;
+  width: 100px;
+  height: 100px;
+}
+
+.copy_right_footer {
+  position: fixed;
+  color: white;
+  bottom: 0px;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+
+}
